@@ -12,7 +12,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * 
  * @author dancye May 7, 2018
  * @modifiedBy Saraljit May 15, 2024
- * making change to see push 
+ * checking fetch and merge
  */
 public class Student 
 {
